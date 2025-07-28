@@ -14,13 +14,25 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá%2C+eu+sou+o+Bruno+César!" alt="Olá eu sou o Bruno César">
-    </a>
-  </h2>
+  <img src="https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c" alt="lofi estud" min-width="400px" max-width="400px" width="400px" align="right">
 
-  <img src="https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c" alt="lofi estud">
+<p align="left"> 
+  Olá, me chamo Bruno César, hoje trabalho como coordenador de performance.<br>
+  Atuo área de Data Science.<br><br>
+  No momento estou fazendo cursos e alimentando o portifólio.<br>
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Python, Excel, Power Bi, Google Colab**
+</p>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-cesar-de-almeida/)" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_brunoexcel/?igsh=cXh6MWhmeDk3NDQw&utm_source=qr#" alt="Instagram"/></a>
+</p>
+
 </div>
 <br>
 
