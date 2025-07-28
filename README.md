@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá%2C+eu+sou+o+Bruno+César!" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá%2C+eu+sou+o+Bruno+César!" alt="Olá eu sou o Bruno César">
     </a>
   </h2>
 
